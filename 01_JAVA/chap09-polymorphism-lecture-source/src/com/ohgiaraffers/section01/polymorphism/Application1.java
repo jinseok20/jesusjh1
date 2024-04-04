@@ -79,6 +79,8 @@ public class Application1 {
         ((Rabbit)a1).jump();
         ((Tiger)a2).bite();
 
+
+
         //((Tiger)a1).bite(); // 토끼는 호랑이가 될 수 없다.
 
         /* 8. instanceof 연산자 사용 확인*/
